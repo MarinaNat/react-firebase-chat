@@ -7,3 +7,7 @@
 
 ## npm install
 ## npm start
+
+## Ссылка на GitHub Pages
+
+https://marinanat.github.io/react-firebase-chat/index.html
