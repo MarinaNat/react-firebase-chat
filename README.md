@@ -1,13 +1,17 @@
 # react-firebase-chat
-Чат в реальном времени. На версии React 17. react-router-dom - 5.
+Чат в реальном времени. На версии React 18. react-router-dom - 6.
 В планах: 
-перенести на React 18
 Перенести стили в соответствующие файлы
 Улучшить интерфейс
 
-## npm install
-## npm start
+## Установка и запуск проекта:
+Клонировать репозиторий
+Установить зависимости:
+# npm install
+Запустить сервер:
+# npm start
 
-## Ссылка на GitHub Pages
-
-https://marinanat.github.io/react-firebase-chat/index.html
+##  Стек технологий:
+* Firebase;
+* React JS;
+* mui -  библиотека;

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Grid} from "@material-ui/core";
+import { Container, Grid} from "@mui/material";
 
 const Loader = () => {
     return (
@@ -22,3 +22,4 @@ const Loader = () => {
 };
 
 export default Loader;
+
